@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dhruvibhudiya07/DAA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/dhruvibhudiya07/DAA/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruvibhudiya07/DAA/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/dhruvibhudiya07/DAA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
