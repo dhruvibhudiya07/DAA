@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/dhruvibhudiya07/DAA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/dhruvibhudiya07/DAA/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhruvibhudiya07/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvibhudiya07/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/dhruvibhudiya07/DAA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhruvibhudiya07/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 | [3731-find-missing-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -90,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhruvibhudiya07/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhruvibhudiya07/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 ## Linked List
 |  |
