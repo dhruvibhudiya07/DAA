@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvibhudiya07/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/dhruvibhudiya07/DAA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/dhruvibhudiya07/DAA/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
@@ -152,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/dhruvibhudiya07/DAA/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/dhruvibhudiya07/DAA/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/dhruvibhudiya07/DAA/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
