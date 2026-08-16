@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/dhruvibhudiya07/DAA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3731-find-missing-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/dhruvibhudiya07/DAA/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhruvibhudiya07/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/dhruvibhudiya07/DAA/tree/master/0372-super-pow) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
