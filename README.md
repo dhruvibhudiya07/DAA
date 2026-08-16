@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvibhudiya07/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/dhruvibhudiya07/DAA/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvibhudiya07/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/dhruvibhudiya07/DAA/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhruvibhudiya07/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvibhudiya07/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/dhruvibhudiya07/DAA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 | [3731-find-missing-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -49,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/dhruvibhudiya07/DAA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dhruvibhudiya07/DAA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruvibhudiya07/DAA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
