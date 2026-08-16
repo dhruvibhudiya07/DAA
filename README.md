@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhruvibhudiya07/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvibhudiya07/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvibhudiya07/DAA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvibhudiya07/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -180,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
