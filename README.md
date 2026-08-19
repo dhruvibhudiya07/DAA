@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvibhudiya07/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/dhruvibhudiya07/DAA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3731-find-missing-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/3731-find-missing-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhruvibhudiya07/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/dhruvibhudiya07/DAA/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhruvibhudiya07/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0654-maximum-binary-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/dhruvibhudiya07/DAA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvibhudiya07/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvibhudiya07/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
@@ -192,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/1382-balance-a-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
