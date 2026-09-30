@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dhruvibhudiya07/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/0005-longest-palindromic-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/dhruvibhudiya07/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/dhruvibhudiya07/DAA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/dhruvibhudiya07/DAA/tree/master/0654-maximum-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvibhudiya07/DAA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
